@@ -1,5 +1,5 @@
 {
-  "name": "test-table",
+  "name": "scr-test-table",
   "version": "1.0.1",
   "description": "A sample Package for Scrivito Widget",
   "main": "build/index.js",
